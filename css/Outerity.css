@@ -62,6 +62,7 @@ body {
 #navbarblock {
   width: 30px;
   height: 20px;
+  cursor: pointer;
 }
 
 .nav-bar__block__text {
@@ -161,6 +162,7 @@ body {
   height: 40px;
   margin-left: 12px;
   box-sizing: border-box;
+  cursor: pointer;
 }
 
 .block-user-bag__user__box-icon {
@@ -196,6 +198,7 @@ body {
   height: 40px;
   margin-left: 12px;
   box-sizing: border-box;
+  cursor: pointer;
 }
 
 .block-user-bag__bag__box-icon {
