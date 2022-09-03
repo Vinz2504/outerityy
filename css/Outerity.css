@@ -338,7 +338,7 @@ body {
   justify-content: center;
   align-items: center;
   transform: scale(0);
-  transition: 0.2s;
+  transition: 1s;
   position: fixed;
   opacity: 0;
 }
@@ -470,7 +470,7 @@ a {
   transform: scale(0);
   opacity: 0;
   z-index: 1;
-  transition: 0.2s
+  transition: 1s
 }
 
 .header__login.on {
@@ -675,7 +675,7 @@ a {
   top: 60px;
   transform: scale(0);
   opacity: 0;
-  transition: 0.2s;
+  transition: 1s;
   box-shadow: black -1px -1px 6px -4px;
   font-family: 'Quicksand', sans-serif;
 }
